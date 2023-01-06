@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/images/wled_logo_akemi.png">
-  <a href="[https://github.com/Aircoookie/WLED/releases](https://github.com/ItsMrJP/WLED0.13.3_for_Xiao_ESP32C3/blob/main/wled00.ino.bin)"><img src="https://img.shields.io/github/release/Aircoookie/WLED.svg?style=flat-square"></a>
+  <a href="[[https://github.com/Aircoookie/WLED/releases](https://github.com/ItsMrJP/WLED0.13.3_for_Xiao_ESP32C3/blob/main/wled00.ino.bin)](https://github.com/ItsMrJP/WLED0.13.3_for_Xiao_ESP32C3/blob/main/wled00.ino.bin)"><img src="https://img.shields.io/github/release/Aircoookie/WLED.svg?style=flat-square"></a>
   <a href="https://raw.githubusercontent.com/Aircoookie/WLED/master/LICENSE"><img src="https://img.shields.io/github/license/Aircoookie/wled?color=blue&style=flat-square"></a>
   <a href="https://wled.discourse.group"><img src="https://img.shields.io/discourse/topics?colorB=blue&label=forum&server=https%3A%2F%2Fwled.discourse.group%2F&style=flat-square"></a>
   <a href="https://discord.gg/KuqP7NE"><img src="https://img.shields.io/discord/473448917040758787.svg?colorB=blue&label=discord&style=flat-square"></a>
